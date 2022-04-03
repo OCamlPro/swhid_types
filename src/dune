@@ -1,0 +1,6 @@
+(library
+ (public_name swhid_types)
+ (wrapped false)
+ (modules swhid_types)
+ (instrumentation
+  (backend bisect_ppx)))
