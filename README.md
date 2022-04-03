@@ -33,8 +33,8 @@ For more, have a look at the [example] folder, at the [documentation] or at the 
 [opam file]: ./swhid_types.opam
 [test suite]: ./test
 
-[documentation]: https://doc.zapashcanon.fr/swhid_types
+[documentation]: https://ocamlpro.github.io/swhid_types
 [how to install opam]: https://opam.ocaml.org/doc/Install.html
 [OCaml]: https://ocaml.org
 [opam]: https://opam.ocaml.org/
-[swhid_types]: https://git.zapashcanon.fr/zapashcanon/swhid_types
+[swhid_types]: https://github.com/ocamlpro/swhid_types
