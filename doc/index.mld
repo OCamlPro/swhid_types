@@ -1,17 +1,9 @@
 {0 swhid_types}
 
-{{:https://https://git.zapashcanon.fr/zapashcanon/swhid_types} swhid_types} is an {{:https://ocaml.org} OCaml} library/executable to TODO.
+{{:https://ocamlpro.github.io/swhid_types} swhid_types} is an {{:https://ocaml.org} OCaml} library/executable to work with persistent identifiers found in Software Heritage, also known as swhid.
 
 {1:api API}
 
 {!modules:
 Swhid_types
-}
-
-{1:private_api Private API}
-
-You shouldn't have to use any of these modules, they're used internally only.
-
-{!modules:
-TODO
 }
