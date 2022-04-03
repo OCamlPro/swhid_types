@@ -18,5 +18,8 @@ let () =
   (* non hexa char *)
   assert (object_id_invalid "a---------------------------------------");
 
-  assert (object_id_from_string "a---------------------------------------" = None);
-  assert (object_id_from_string "abcdef0123456789abcdef0123456789abcdef01" = Some "abcdef0123456789abcdef0123456789abcdef01")
+  assert (
+    object_id_from_string "a---------------------------------------" = None );
+  assert (
+    object_id_from_string "abcdef0123456789abcdef0123456789abcdef01"
+    = Some "abcdef0123456789abcdef0123456789abcdef01" )
