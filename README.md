@@ -1,6 +1,6 @@
-# swhid_types
+# swhid_types [![Actions Status](https://github.com/ocamlpro/swhid_types/workflows/build/badge.svg)](https://github.com/ocamlpro/swhid_types/actions) [![coverage percentage](https://raw.githubusercontent.com/ocamlpro/swhid_types/gh-pages/coverage/badge.svg)](https://ocamlpro.github.io/swhid_types/coverage/)
 
-[swhid_types] is an [OCaml] executable/library to TODO.
+[swhid_types] is an [OCaml] library to work with [persistent identifiers] found in [Software Heritage], also known as swhid.
 
 ## Installation
 
